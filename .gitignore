@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Datasets & large artifacts (keep these OUT of git)
+data/
+ASCAD*/
+*.npz
+*.h5
+
+# Model/checkpoints
+*.pt
+runs/*.pt
+
+# Optional: ignore big images/logs (keep if you want them on GitHub)
+# runs/*.png
+# runs/*.pdf
+# runs/*.log
+
+# OS/editor junk
+.DS_Store
+*.swp
