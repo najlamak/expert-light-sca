@@ -1,6 +1,6 @@
 # Expert-Light SCA: SimCLR → Few-shot → Attack (ASCAD)
 
-This repo reproduces the results of Applied Cryptography Subject in **“Toward Generic Side-Channel Attacks: An Expert-Light, Data-Efficient Deep Learning Pipeline”** by Najla Alkhater & Sara Alotaibi. 
+This repo reproduces the results of Applied Cryptography project in **“Toward Generic Side-Channel Attacks: An Expert-Light, Data-Efficient Deep Learning Pipeline”** by Najla Alkhater & Sara Alotaibi. 
 
 ## Quick start
 ```bash
